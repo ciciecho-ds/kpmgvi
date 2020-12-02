@@ -11,7 +11,7 @@ The goal of the project is to assist with client's targeted marketing strategy b
 * RFM Analysis
 * Machine Learning
 * Data Visualization
-* Prredictive Modeling 
+* Predictive Modeling 
 
 ### Technologies
 * Python
