@@ -26,8 +26,8 @@ To find more information on the virtual internship, you may go to:
 
 ## Featured Notebooks
 * [KPMG VI Data Quality Assessment](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG_VI_Task_1_final.ipynb)
-* [Data Insights_1](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG%20VI_Task2_Part1_final.ipynb)
-* [Data Insights_2](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG%20VI_Task2_Part2_final.ipynb)
+* [KPMG VI Data Insights_1](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG%20VI_Task2_Part1_final.ipynb)
+* [KPMG VI Data Insights_2](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG%20VI_Task2_Part2_final.ipynb)
 
 ## Contact
 * You may contact me at ciciechodu@gmail.com
