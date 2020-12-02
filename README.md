@@ -22,7 +22,7 @@ The goal of the project is to assist with client's targeted marketing strategy b
 The data for this project is provided by KPMG. 
 In this project, kernel SVM and random forest classfier are used and the best model is selected based on recall, with consideration of accuracy. 
 This project is a learning project and may be improved on an ongoing basis. 
-To find more information on the virtual internship, you may go to: 
+To find more information on the virtual internship, you may go to: https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship
 
 ## Featured Notebooks
 * [KPMG VI Data Quality Assessment](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG_VI_Task_1_final.ipynb)
