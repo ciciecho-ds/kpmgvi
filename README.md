@@ -21,7 +21,7 @@ The goal of the project is to assist with client's targeted marketing strategy b
 ## Project Description
 The data for this project is provided by KPMG. 
 In this project, kernel SVM and random forest classfier are used and the best model is selected based on recall, with consideration of accuracy. 
-This project is a learning project and may be improved on an ongoing basis. 
+
 To find more information on the virtual internship, you may go to: https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship
 
 ## Data Visualizations
@@ -29,9 +29,9 @@ To find more information on the virtual internship, you may go to: https://www.t
 * [Additional Info On Customers](https://public.tableau.com/views/KPMGVirtualInternship-CustomerDemographics/AddtionalInfoonCustomers?:language=en&:display_count=y&:origin=viz_share_link)
 
 ## Featured Notebooks
-* [KPMG VI Data Quality Assessment](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG_VI_Task_1_final.ipynb)
-* [KPMG VI Data Insights_1](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG%20VI_Task2_Part1_final.ipynb)
-* [KPMG VI Data Insights_2](https://github.com/ciciecho-ds/kpmgvi/blob/main/KPMG%20VI_Task2_Part2_final.ipynb)
+* [KPMG VI Data Quality Assessment](https://github.com/ciciecho-ds/kpmgvi/blob/main/notebooks/1.0-cd-task1.ipynb)
+* [KPMG VI Data Insights_1](https://github.com/ciciecho-ds/kpmgvi/blob/main/notebooks/1.0-cd-task2-part1.ipynb)
+* [KPMG VI Data Insights_2](https://github.com/ciciecho-ds/kpmgvi/blob/main/notebooks/1.0-cd-task2-part2.ipynb)
 
 ## Contact
-* You may contact me at ciciechodu@gmail.com
+* You may contact me at cicidhz@gmail.com
